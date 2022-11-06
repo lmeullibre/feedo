@@ -1,0 +1,18 @@
+{
+    "ad_id": 4,
+    "ad_agency_id": 5,
+    "ad_timestamp": 4,
+    "value": {
+        "value": "happy",
+        "provability": 90,
+        "sentiments": {
+            "angry": 2,
+            "disgust": 4,
+            "fear": 1,
+            "happy": 98,
+            "sad": 4,
+            "surprise": 4,
+            "neutral": 1
+        }
+    } 
+}
